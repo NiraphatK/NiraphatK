@@ -69,8 +69,4 @@ Feel free to reach out for collaboration, internships, or just a tech chat:
 - 📧 Email: niraphat.ko@gmail.com  
 - 🌍 GitHub: [github.com/NiraphatK](https://github.com/NiraphatK)
 
----
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiraphatK&theme=dark&hide_border=true" />
-</p>
