@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=1f232a&text=NIRAPHAT%20KONGHUAYROB&fontSize=32&height=120&fontColor=ffffff" width="100%" />
 
   <p align="center">
-    <code><b>Associate Platform Engineer</b></code> &nbsp;·&nbsp; 
+    <code><b>Platform Engineer</b></code> &nbsp;·&nbsp; 
     <code><b>Cloud-Native Enthusiast</b></code> &nbsp;·&nbsp; 
     <code><b>Hybrid Full-Stack Background</b></code>
   </p>
