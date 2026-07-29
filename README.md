@@ -1,72 +1,114 @@
-<h1 align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40" /> Hello! I'm Niraphat Konghuayrob
-</h1>
+<div align="center">
+  <!-- Dynamic Slate Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1f232a&text=NIRAPHAT%20KONGHUAYROB&fontSize=32&height=120&fontColor=ffffff" width="100%" />
 
-<p align="center">
-  💻 Information Technology Student from Bangkok, Thailand  
-</p>
-
-<p align="center">
-  📬 <a href="mailto:niraphat.ko@gmail.com">niraphat.ko@gmail.com</a>  
-</p>
-
----
-
-## 🧠 About Me
-
-- 🎓 4th-year IT student at Thai-Nichi Institute of Technology  
-- 🧩 Interested in **Software Development**, **Web Technologies**, and exploring **DevOps practices**
-- 🌱 Continuously learning and improving through hands-on projects
-- 🔍 Enthusiastic about problem-solving and working in collaborative environments
+  <p align="center">
+    <code><b>Associate Platform Engineer</b></code> &nbsp;·&nbsp; 
+    <code><b>Cloud-Native Enthusiast</b></code> &nbsp;·&nbsp; 
+    <code><b>Hybrid Full-Stack Background</b></code>
+  </p>
+</div>
 
 ---
 
-## 💻 Tech Stack
+### Profile Summary
 
-<p align="center">
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <br/>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nodemon-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD"/>
-  <br/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
-
+I am a recent IT graduate transitioning into the enterprise infrastructure and cloud-native ecosystem. Having spent my academic years developing across Frontend, Backend, and Mobile platforms, I possess a comprehensive understanding of the application lifecycle. My core focus is on continuous integration, container orchestration, and system observability, with a strong commitment to learning production-grade architecture under experienced mentorship.
 
 ---
 
-## 📊 GitHub Stats
+### Core Capabilities & Tech Ecosystem
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NiraphatK&show_icons=true&theme=radical&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiraphatK&layout=compact&theme=radical&hide_border=true" height="180"/>
-</p>
+<table width="100%">
+  <!-- ROW 1: CLOUD NATIVE & NETWORKING -->
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Cloud Native & DevOps</h4>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=kubernetes,docker,gitlab,helm" alt="Cloud Native" />
+      </p>
+      <ul>
+        <li><b>Orchestration:</b> Kubernetes (K8s), OpenShift, RKE2</li>
+        <li><b>Containers & Tools:</b> Docker, Helm Charts, Harbor</li>
+        <li><b>CI/CD:</b> GitLab CI/CD, Git (GitHub / GitLab)</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Networking & Security</h4>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=nginx" alt="Networking" />
+      </p>
+      <ul>
+        <li><b>Traffic Control:</b> Nginx, Ingress Controller, DNS</li>
+        <li><b>Infrastructure:</b> TCP/IP, LAN/WAN, Firewalls</li>
+        <li><b>Protocols:</b> SSH, SSL/TLS</li>
+      </ul>
+    </td>
+  </tr>
+
+  <!-- ROW 2: OBSERVABILITY & BACKEND -->
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Observability & Systems</h4>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=linux,ubuntu" alt="Systems" />
+      </p>
+      <ul>
+        <li><b>Telemetry:</b> SigNoz, OpenTelemetry (OTel)</li>
+        <li><b>Operating Systems:</b> Oracle Linux, Ubuntu</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Backend Development & APIs</h4>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=java,spring,cs,py,nodejs,php,laravel" alt="Backend" />
+      </p>
+      <ul>
+        <li><b>Runtimes:</b> Java (Spring Boot), C#, Python, Node.js</li>
+        <li><b>Web Frameworks:</b> PHP, Laravel &middot; <b>APIs:</b> RESTful APIs</li>
+      </ul>
+    </td>
+  </tr>
+
+  <!-- ROW 3: DATABASES & FRONTEND -->
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Databases & Storage</h4>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite" alt="Databases" />
+      </p>
+      <ul>
+        <li><b>Relational:</b> MySQL, PostgreSQL, MS SQL Server, SQLite</li>
+        <li><b>NoSQL:</b> MongoDB</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Frontend & Mobile Engineering</h4>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=nextjs,ts,js,html,css,tailwind,bootstrap,react,figma,postman" alt="Frontend" />
+      </p>
+      <ul>
+        <li><b>Web:</b> Next.js, TypeScript, JavaScript, Tailwind, Bootstrap</li>
+        <li><b>Mobile:</b> React Native, .NET MAUI, Android Studio</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🌐 Let's Connect
+### System Metrics & Contribution Activity
 
-Feel free to reach out for collaboration, internships, or just a tech chat:
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiraphatK&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="150" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NiraphatK&theme=tokyonight&bg_color=0f141c&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+</div>
 
-- 📧 Email: niraphat.ko@gmail.com  
-- 🌍 GitHub: [github.com/NiraphatK](https://github.com/NiraphatK)
+---
 
+### Connect & Collaborate
 
+*Always open to discussing cloud-native technologies, system reliability, and automation workflows.*
+
+* **Gateway:** [niraphat.ko@gmail.com](mailto:niraphat.ko@gmail.com)
