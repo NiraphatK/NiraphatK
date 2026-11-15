@@ -17,16 +17,6 @@ I am a recent IT graduate transitioning into the enterprise infrastructure and c
 
 ---
 
-### Selected Projects
-
-| Project | Work demonstrated |
-| --- | --- |
-| [Security Alert](https://github.com/NiraphatK/security-alert) | Vulnerability and security-news delivery to Discord, with GitHub Actions and a Cloudflare trigger. |
-| [Sushico Reservation System](https://github.com/NiraphatK/sushico-reservation-system) | Laravel/MySQL restaurant booking with customer, staff, and admin workflows. |
-| [Spring Boot / OpenShift Practice](https://github.com/NiraphatK/practice-springboot-openshift) | Java service containerization and an OpenShift-oriented learning workflow. |
-
-[View my portfolio](https://niraphatk.vercel.app) for additional project context.
-
 ### Core Capabilities & Tech Ecosystem
 
 <table width="100%">
