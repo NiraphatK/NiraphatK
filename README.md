@@ -101,8 +101,6 @@ I am a recent IT graduate transitioning into the enterprise infrastructure and c
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiraphatK&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="150" />
-  <br><br>
-  <img src="https://raw.githubusercontent.com/NiraphatK/NiraphatK/output/activity-graph.svg" alt="GitHub Activity Graph" width="100%" />
 </div>
 
 ---
